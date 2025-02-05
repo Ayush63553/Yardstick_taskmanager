@@ -13,9 +13,9 @@ const Footer = () => {
                     <ul className="flex justify-between">
                         <li className="mr-1 hover:font-semibold"><a href="#">Facebook</a></li>
                         <span>||</span>
-                        <li className="mr-1 ml-1 hover:font-semibold"><a href="https://www.linkedin.com/in/vaibhav-thareja-685133217">LinkedIn</a></li>
+                        <li className="mr-1 ml-1 hover:font-semibold"><a href="https://www.linkedin.com/in/ayushman-jha-124607226">LinkedIn</a></li>
                         <span>||</span>
-                        <li className="ml-1 hover:font-semibold"><a href="https://www.instagram.com/vaibhav_thareja_05/">Instagram</a></li>
+                        <li className="ml-1 hover:font-semibold"><a href="https://github.com/Ayush63553/">Github</a></li>
                     </ul>
                 </div>
             </div>
